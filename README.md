@@ -176,13 +176,3 @@ Combino lo técnico con habilidades de **liderazgo, comunicación y coordinació
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B388EB,100:4B0082&height=100&section=footer" width="100%"/>
 
 </div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Carlaa0u0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <i>"El aprendizaje continuo es la base de todo gran desarrollo." 💜</i>
-</p>
