@@ -134,12 +134,3 @@ Características: Responsable · Organizada · Proactiva · Aprendizaje continuo
 <p align="center">
   <i>"El aprendizaje continuo es la base de todo gran desarrollo." 💜</i>
 </p>
-
-## 📡 CANALES DE COMUNICACIÓN
-
-<p align="center">
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=100&section=footer&text=GAME%20OVER?%20NO%2C%20JUST%20GETTING%20STARTED&fontSize=14&fontColor=00ffc8" width="100%"/>
