@@ -2,119 +2,130 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=¡Hola,%20soy%20Tu%20Nombre!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20en%20Sistemas%20%7C%20Futuro%20Desarrollador&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://github.com/tu-usuario">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Apasionado+por+resolver+problemas+con+c%C3%B3digo;Construyendo+proyectos+desde+la+universidad;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" alt="typing" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=200&section=header&text=TU%20NOMBRE&fontSize=46&fontColor=00ffc8&fontAlignY=45&desc=PLAYER%20CLASS:%20Software%20Engineer%20Student&descAlignY=65&descSize=16&descColor=ffffff" width="100%"/>
 
 </div>
 
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+### 🏅 NIVEL
+**Estudiante**
+`Ingeniería en Sistemas`
+
+</td>
+<td width="33%" align="center">
+
+### ⚡ XP ACTUAL
+**+4 proyectos**
+`completados`
+
+</td>
+<td width="33%" align="center">
+
+### 🎯 SIGUIENTE OBJETIVO
+**[tu meta]**
+`ej. primer empleo dev`
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
+## 🎮 FICHA DE PERSONAJE
 
-## 🧠 Sobre mí
+```
+┌─────────────────────────────────────────────┐
+│  NOMBRE:    Tu Nombre                       │
+│  CLASE:     Desarrollador en formación       │
+│  UBICACIÓN: Universidad XYZ                  │
+│  ESTADO:    🟢 Disponible para proyectos     │
+│  ARMA PRINCIPAL: [tu lenguaje favorito]      │
+└─────────────────────────────────────────────┘
+```
+
+<br/>
+
+## 🧪 INVENTARIO DE HABILIDADES
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,mysql,git,github,linux&theme=dark" />
+</p>
+
+<table width="100%">
+<tr><td>🐍 Python</td><td>████████░░ 80%</td></tr>
+<tr><td>☕ Java</td><td>██████░░░░ 60%</td></tr>
+<tr><td>🌐 JavaScript</td><td>███████░░░ 70%</td></tr>
+<tr><td>🗄️ SQL</td><td>███████░░░ 70%</td></tr>
+</table>
+
+<sub>*(ajusta estos porcentajes a tu nivel real)*</sub>
+
+<br/>
+
+## 🏆 LOGROS DESBLOQUEADOS (Proyectos)
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-- 🎓 Estudiante de **Ingeniería en Sistemas** — Universidad XYZ
-- 💡 Me gusta convertir ideas en proyectos funcionales
-- 🌱 Aprendiendo actualmente: **[tecnología]**
-- 🎯 Meta: especializarme en **[área que te interese, ej. desarrollo web / data / IA]**
-- ⚡ Dato curioso: *[algo simpático sobre ti]*
+> ### 🥇 MISIÓN 01: Nombre del Proyecto 1
+> **Dificultad:** ⭐⭐⭐☆☆
+> Sistema de gestión de inventario con login y reportes en PDF.
+> **Loot obtenido:** `Python` `Flask` `MySQL`
+> 🔗 [Ver código](https://github.com/tu-usuario/proyecto-1)
 
 </td>
-<td width="40%" align="center">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/>
+> ### 🥇 MISIÓN 02: Nombre del Proyecto 2
+> **Dificultad:** ⭐⭐⭐⭐☆
+> App de tareas en equipo con tablero Kanban.
+> **Loot obtenido:** `React` `Node.js` `MongoDB`
+> 🔗 [Ver código](https://github.com/tu-usuario/proyecto-2)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+> ### 🥈 MISIÓN 03: Nombre del Proyecto 3
+> **Dificultad:** ⭐⭐☆☆☆
+> Simulador visual de algoritmos de ordenamiento.
+> **Loot obtenido:** `Java` `JavaFX`
+> 🔗 [Ver código](https://github.com/tu-usuario/proyecto-3)
+
+</td>
+<td width="50%" valign="top">
+
+> ### 🥈 MISIÓN 04: Nombre del Proyecto 4
+> **Dificultad:** ⭐⭐⭐☆☆
+> Análisis y visualización de datos académicos.
+> **Loot obtenido:** `Python` `Pandas` `Matplotlib`
+> 🔗 [Ver código](https://github.com/tu-usuario/proyecto-4)
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
+<br/>
 
-## 🧰 Tecnologías y herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,mysql,git,github,figma,vscode,linux&theme=dark" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
-
-## 🚀 Proyectos destacados
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 [Nombre del Proyecto 1](https://github.com/tu-usuario/proyecto-1)
-Sistema de gestión de inventario con autenticación de usuarios y reportes en PDF.
-
-`Python` `Flask` `MySQL`
-
-[![Repo](https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario/proyecto-1)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔵 [Nombre del Proyecto 2](https://github.com/tu-usuario/proyecto-2)
-App web para gestionar tareas en equipo con tablero estilo Kanban.
-
-`React` `Node.js` `MongoDB`
-
-[![Repo](https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario/proyecto-2)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🟢 [Nombre del Proyecto 3](https://github.com/tu-usuario/proyecto-3)
-Simulador de algoritmos de ordenamiento con visualización gráfica.
-
-`Java` `JavaFX`
-
-[![Repo](https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario/proyecto-3)
-
-</td>
-<td width="50%" valign="top">
-
-### 🟠 [Nombre del Proyecto 4](https://github.com/tu-usuario/proyecto-4)
-Análisis de datos académicos con visualizaciones interactivas.
-
-`Python` `Pandas` `Matplotlib`
-
-[![Repo](https://img.shields.io/badge/Ver_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario/proyecto-4)
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
-
-## 📊 Actividad
+## 📈 ESTADÍSTICAS DEL JUGADOR
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true&background=00000000" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=00ffc8&icon_color=00ffc8" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=dracula&hide_border=true&background=00000000&ring=00ffc8&fire=00ffc8" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
-</p>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
-
-## 📫 Conectemos
+## 📡 CANALES DE COMUNICACIÓN
 
 <p align="center">
   <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/tu-usuario"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:302b63,100:0f0c29&height=100&section=footer&text=GAME%20OVER?%20NO%2C%20JUST%20GETTING%20STARTED&fontSize=14&fontColor=00ffc8" width="100%"/>
