@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:B388EB&height=220&section=header&text=Carla%20Vásquez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20en%20formación&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=B388EB&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Desarrollo+y+Gesti%C3%B3n+de+Software+-+UTP;%F0%9F%8C%B8+Apasionada+por+el+desarrollo+web;%F0%9F%9A%80+Creando+soluciones+digitales+innovadoras;%F0%9F%93%9A+Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
+<img src="./assets/banner.gif" width="100%" alt="Banner de Carla"/>
 
 <img src="https://komarev.com/ghpvc/?username=Carlaa0u0&style=for-the-badge&color=4B0082" alt="profile views" />
 
