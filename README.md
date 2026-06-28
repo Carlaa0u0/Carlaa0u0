@@ -1,9 +1,10 @@
-## Hi there 👋
 <div align="center">
 
 ![Banner](https://github.com/Carlaa0u0/Carlaa0u0/blob/main/assent/banner.gif?raw=true)
 
-<img src="https://komarev.com/ghpvc/?username=Carlaa0u0&style=for-the-badge&color=4B0082" alt="profile views" />
+<img src="https://img.shields.io/badge/Desarrollo_Web-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Desarrollo_de_Apps-6A0DAD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Front_end_%26_Back_end-B388EB?style=for-the-badge" />
 
 </div>
 
