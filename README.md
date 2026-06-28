@@ -1,9 +1,9 @@
 ## Hi there 👋
 <div align="center">
 
+![Banner](https://github.com/Carlaa0u0/Carlaa0u0/blob/main/assent/banner.gif?raw=true)
 
 
-<img src="./assets/banner.gif" width="100%" alt="banner"/>
 
 <img src="https://komarev.com/ghpvc/?username=Carlaa0u0&style=for-the-badge&color=4B0082" alt="profile views" />
 
