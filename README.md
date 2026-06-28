@@ -24,9 +24,9 @@ Me destaco por mi disciplina, aprendizaje continuo y capacidad para adaptarme a 
 
 ### 📌 Datos rápidos
 
-- 🎓 **Carrera:** Lic Desarrollo. y Gestión de Software
+- 🎓 **Carrera:** Lic Dllo. y Gestión de Software
 - 🏫 **Universidad:** UTP
-- 📍 **Ubicación:** David, Chiriqui
+- 📍 **Ubicación:** Panamá
 - 💼 **Enfoque:** Front-end & Back-end
 - 🤝 **Extra:** Liderazgo de equipos
 - 🎨 **Diseño:** Figma · Canva · Blender
@@ -86,6 +86,7 @@ Me destaco por mi disciplina, aprendizaje continuo y capacidad para adaptarme a 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
 <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white" />
 </td>
 </tr>
 </table>
@@ -104,46 +105,40 @@ Me destaco por mi disciplina, aprendizaje continuo y capacidad para adaptarme a 
 <tr>
 <td width="50%">
 
-<h4>[Nombre del Proyecto 1]</h4>
-<p>Descripción breve: qué problema resuelve y qué tecnologías usaste.</p>
-<img src="https://img.shields.io/badge/React-4B0082?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-4B0082?style=flat-square&logo=node.js&logoColor=white"/>
+<h4>Sistema Centralizado de Cobro y Gestión — Hospital Privado X (Bugaba)</h4>
+<p>Sistema para el cobro, gestión y control estadístico del programa de seguro de vida y asistencia médica de un hospital privado. Proyecto en equipo — me encargué del diseño y front-end.</p>
+<img src="https://img.shields.io/badge/CakePHP-4B0082?style=flat-square&logo=cakephp&logoColor=white"/>
 <br><br>
-<a href="https://github.com/Carlaa0u0/PROYECTO1"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/brustlinket12/hospitalv2"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%">
 
-<h4>[Nombre del Proyecto 2]</h4>
-<p>Descripción breve: qué problema resuelve y qué tecnologías usaste.</p>
-<img src="https://img.shields.io/badge/Django-4B0082?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4B0082?style=flat-square&logo=postgresql&logoColor=white"/>
+<h4>Guizi — Plataforma de Aprendizaje</h4>
+<p>Plataforma web de aprendizaje. Proyecto en equipo — me encargué del diseño y front-end.</p>
+<img src="https://img.shields.io/badge/Django-4B0082?style=flat-square&logo=django&logoColor=white"/>
 <br><br>
-<a href="https://github.com/Carlaa0u0/PROYECTO2"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Carlaa0u0/Guizi_soffw_7"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<h4>[Nombre del Proyecto 3]</h4>
-<p>Descripción breve: qué problema resuelve y qué tecnologías usaste.</p>
+<h4>El Mandadito</h4>
+<p>App de compra de supermercado en línea, con modo oscuro. Proyecto en equipo — me encargué del diseño y front-end.</p>
 <img src="https://img.shields.io/badge/Flutter-4B0082?style=flat-square&logo=flutter&logoColor=white"/>
 <br><br>
-<a href="https://github.com/Carlaa0u0/PROYECTO3"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Carlaa0u0/ElMandadito_Sftw6"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%">
-
-<h4>[Nombre del Proyecto 4]</h4>
-<p>Descripción breve: qué problema resuelve y qué tecnologías usaste.</p>
-<img src="https://img.shields.io/badge/Godot-4B0082?style=flat-square&logo=godotengine&logoColor=white"/>
-<br><br>
-<a href="https://github.com/Carlaa0u0/PROYECTO4"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
 
-<p align="center"><i>Reemplaza estos bloques con tus proyectos reales: nombre, descripción, tecnologías y link al repo.</i></p>
+<p align="center"><i>Queda un espacio libre — agrega tu próximo proyecto aquí cuando lo tengas.</i></p>
 
 <br>
 
