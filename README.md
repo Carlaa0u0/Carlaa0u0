@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### Sobre mí
+### ✨Sobre mí
 
 Soy estudiante de **Licenciatura en Desarrollo y Gestión de Software** en la **Universidad Tecnológica de Panamá**. Me apasiona el desarrollo web, la innovación tecnológica y crear soluciones digitales que de verdad sirvan.
 Me destaco por mi disciplina, aprendizaje continuo y capacidad para adaptarme a nuevas tecnologías. Busco oportunidades para aplicar mis conocimientos en proyectos reales y seguir creciendo como desarrolladora.
