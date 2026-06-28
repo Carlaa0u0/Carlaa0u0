@@ -105,7 +105,7 @@ Me destaco por mi disciplina, aprendizaje continuo y capacidad para adaptarme a 
 <tr>
 <td width="33%" valign="top">
 
-<h4>Hospital Privado X (Bugaba)</h4>
+<h4>Poyecto#1: Hospital Privado X (Bugaba) 🏥</h4>
 <p>Sistema centralizado de cobro, gestión y control estadístico del programa de seguro de vida y asistencia médica. Proyecto en equipo — me encargué del diseño y front-end.</p>
 <img src="https://img.shields.io/badge/CakePHP-4B0082?style=flat-square&logo=cakephp&logoColor=white"/>
 <br><br>
@@ -114,7 +114,7 @@ Me destaco por mi disciplina, aprendizaje continuo y capacidad para adaptarme a 
 </td>
 <td width="33%" valign="top">
 
-<h4>Guizi — Plataforma de Aprendizaje</h4>
+<h4>Poyecto#2: Guizi — Plataforma de Aprendizaje 👩🏼‍🏫</h4>
 <p>Plataforma web de aprendizaje. Proyecto en equipo — me encargué del diseño y front-end.</p>
 <img src="https://img.shields.io/badge/Django-4B0082?style=flat-square&logo=django&logoColor=white"/>
 <br><br>
@@ -123,8 +123,8 @@ Me destaco por mi disciplina, aprendizaje continuo y capacidad para adaptarme a 
 </td>
 <td width="33%" valign="top">
 
-<h4>El Mandadito</h4>
-<p>App de compra de supermercado en línea, con modo oscuro. Proyecto en equipo — me encargué del diseño y front-end.</p>
+<h4>Poyecto#3:El Mandadito 🛒 </h4>
+<p>App de compra de supermercado en línea. Proyecto en equipo — me encargué del diseño y front-end.</p>
 <img src="https://img.shields.io/badge/Flutter-4B0082?style=flat-square&logo=flutter&logoColor=white"/>
 <br><br>
 <a href="https://github.com/Carlaa0u0/ElMandadito_Sftw6"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
