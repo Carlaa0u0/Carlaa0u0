@@ -3,8 +3,6 @@
 
 ![Banner](https://github.com/Carlaa0u0/Carlaa0u0/blob/main/assent/banner.gif?raw=true)
 
-
-
 <img src="https://komarev.com/ghpvc/?username=Carlaa0u0&style=for-the-badge&color=4B0082" alt="profile views" />
 
 </div>
@@ -26,14 +24,12 @@ Combino lo técnico con habilidades de **liderazgo, comunicación y coordinació
 
 ### ⚡ Datos rápidos
 
-```
-🎓  Carrera: Dllo. y Gestión de Software
-🏫  Universidad: UTP
-📍  Panamá
-💼  Front-end & Back-end
-🤝  Liderazgo de equipos
-🎨  Diseño: Figma · Canva · Blender
-```
+- 🎓 **Carrera:** Dllo. y Gestión de Software
+- 🏫 **Universidad:** UTP
+- 📍 **Ubicación:** Panamá
+- 💼 **Enfoque:** Front-end & Back-end
+- 🤝 **Extra:** Liderazgo de equipos
+- 🎨 **Diseño:** Figma · Canva · Blender
 
 </td>
 </tr>
@@ -46,6 +42,10 @@ Combino lo técnico con habilidades de **liderazgo, comunicación y coordinació
 ### 🧰 Stack Tecnológico
 
 </div>
+
+<details open>
+<summary><b>Ver detalle del stack</b></summary>
+<br>
 
 <table align="center">
 <tr><th>Categoría</th><th>Tecnologías</th></tr>
@@ -91,6 +91,8 @@ Combino lo técnico con habilidades de **liderazgo, comunicación y coordinació
 </tr>
 </table>
 
+</details>
+
 <br>
 
 <div align="center">
@@ -103,40 +105,40 @@ Combino lo técnico con habilidades de **liderazgo, comunicación y coordinació
 <tr>
 <td width="50%">
 
-<h4>🔮 Nombre del Proyecto 1</h4>
+<h4>🔮 [Nombre del Proyecto 1]</h4>
 <p>Descripción breve: qué problema resuelve y qué tecnologías usaste.</p>
-<img src="https://img.shields.io/badge/React-6A0DAD?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-9B59B6?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-4B0082?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-4B0082?style=flat-square&logo=node.js&logoColor=white"/>
 <br><br>
 <a href="https://github.com/Carlaa0u0/PROYECTO1"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%">
 
-<h4>🌈 Nombre del Proyecto 2</h4>
+<h4>🌈 [Nombre del Proyecto 2]</h4>
 <p>Descripción breve: qué problema resuelve y qué tecnologías usaste.</p>
-<img src="https://img.shields.io/badge/Django-9B59B6?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4B0082?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-4B0082?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4B0082?style=flat-square&logo=postgresql&logoColor=white"/>
 <br><br>
-<a href="https://github.com/Carlaa0u0/PROYECTO2"><img src="https://img.shields.io/badge/Ver_Repositorio-B388EB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Carlaa0u0/PROYECTO2"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<h4>🎨 Nombre del Proyecto 3</h4>
+<h4>🎨 [Nombre del Proyecto 3]</h4>
 <p>Descripción breve: qué problema resuelve y qué tecnologías usaste.</p>
-<img src="https://img.shields.io/badge/Flutter-6A0DAD?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-4B0082?style=flat-square&logo=flutter&logoColor=white"/>
 <br><br>
-<a href="https://github.com/Carlaa0u0/PROYECTO3"><img src="https://img.shields.io/badge/Ver_Repositorio-6A0DAD?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Carlaa0u0/PROYECTO3"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%">
 
-<h4>✨ Nombre del Proyecto 4</h4>
+<h4>✨ [Nombre del Proyecto 4]</h4>
 <p>Descripción breve: qué problema resuelve y qué tecnologías usaste.</p>
-<img src="https://img.shields.io/badge/Godot-9B59B6?style=flat-square&logo=godotengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Godot-4B0082?style=flat-square&logo=godotengine&logoColor=white"/>
 <br><br>
-<a href="https://github.com/Carlaa0u0/PROYECTO4"><img src="https://img.shields.io/badge/Ver_Repositorio-9B59B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Carlaa0u0/PROYECTO4"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -165,13 +167,13 @@ Combino lo técnico con habilidades de **liderazgo, comunicación y coordinació
 
 ### 📫 Conectemos
 
-<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:TU-CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Email-B388EB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Carlaa0u0"><img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/carla-vasquez-8a318a27a"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:carlavasquez0922@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Carlaa0u0"><img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br><br>
 
-<i>"El aprendizaje continuo es la base de todo gran desarrollo." 🌸</i>
+<i>"Si puedes soñarlo, puedes lograrlo." ✨</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B388EB,100:4B0082&height=100&section=footer" width="100%"/>
 
