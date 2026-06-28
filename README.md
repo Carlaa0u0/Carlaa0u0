@@ -3,7 +3,7 @@
 
 
 
-<img src="./assets/banner.gif" width="100%" alt="Banner de Carla"/>
+<img src="./assets/banner.gif" width="100%" alt="banner"/>
 
 <img src="https://komarev.com/ghpvc/?username=Carlaa0u0&style=for-the-badge&color=4B0082" alt="profile views" />
 
