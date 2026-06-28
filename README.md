@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:B388EB&height=220&section=header&text=Carla%20Vásquez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20en%20formación&descAlignY=58&descSize=18" width="100%"/>
+
 
 <img src="./assets/banner.gif" width="100%" alt="Banner de Carla"/>
 
