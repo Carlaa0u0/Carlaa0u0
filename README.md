@@ -103,16 +103,16 @@ Me destaco por mi disciplina, aprendizaje continuo y capacidad para adaptarme a 
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-<h4>Sistema Centralizado de Cobro y Gestión — Hospital Privado X (Bugaba)</h4>
-<p>Sistema para el cobro, gestión y control estadístico del programa de seguro de vida y asistencia médica de un hospital privado. Proyecto en equipo — me encargué del diseño y front-end.</p>
+<h4>Hospital Privado X (Bugaba)</h4>
+<p>Sistema centralizado de cobro, gestión y control estadístico del programa de seguro de vida y asistencia médica. Proyecto en equipo — me encargué del diseño y front-end.</p>
 <img src="https://img.shields.io/badge/CakePHP-4B0082?style=flat-square&logo=cakephp&logoColor=white"/>
 <br><br>
 <a href="https://github.com/brustlinket12/hospitalv2"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
 <h4>Guizi — Plataforma de Aprendizaje</h4>
 <p>Plataforma web de aprendizaje. Proyecto en equipo — me encargué del diseño y front-end.</p>
@@ -121,9 +121,7 @@ Me destaco por mi disciplina, aprendizaje continuo y capacidad para adaptarme a 
 <a href="https://github.com/Carlaa0u0/Guizi_soffw_7"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" valign="top">
 
 <h4>El Mandadito</h4>
 <p>App de compra de supermercado en línea, con modo oscuro. Proyecto en equipo — me encargué del diseño y front-end.</p>
@@ -132,13 +130,8 @@ Me destaco por mi disciplina, aprendizaje continuo y capacidad para adaptarme a 
 <a href="https://github.com/Carlaa0u0/ElMandadito_Sftw6"><img src="https://img.shields.io/badge/Ver_Repositorio-4B0082?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
-<td width="50%">
-
-</td>
 </tr>
 </table>
-
-<p align="center"><i>Queda un espacio libre — agrega tu próximo proyecto aquí cuando lo tengas.</i></p>
 
 <br>
 
